@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+.edit_link {
+    font-size: 30px;
+    color: #0004ff;
+    text-transform: uppercase;
+}
+.edit_link:hover {
+    color: #5558f3;
+
+}

@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+}
+
+.wrapper {
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 445px;
+    background-color: #dffab3;
+    list-style-type: none;
+    border-radius: 5px;
+    border: 2px solid #33d9af;
+    color: #095c32;
+    font-size: 20px;
+}
+
+code {
+    display: block;
+    background-color: #fff;
+    padding: 20px 0;
+    margin-top: 10px;
+}
+
+.item {
+    margin-bottom: 10px;
+}
+
+p {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+p:hover {
+    color: #095c338f;
+}

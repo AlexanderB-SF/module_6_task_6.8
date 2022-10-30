@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+p {
+    margin: 0 auto;
+    font-size: 20px;
+    font-weight: bold;
+    width: 600px;
+    height: 200px;
+    background-color: #dffab3;
+    border: 2px solid #33d9af;
+    border-radius: 5px;
+    color: #f00909;
+    line-height: 200px;
+}

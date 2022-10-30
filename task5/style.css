@@ -1,0 +1,38 @@
+a {
+    text-align: center;
+}
+
+.wrapper {
+    width: 700px;
+    height: 450px;
+    margin: 0 auto;
+    background-color: #068162;
+    border-radius: 5px;
+    border: 2px solid #03382b;
+    padding: 20px;
+    color: #fff;
+}
+
+button {
+    display: block;
+    margin-top: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+input {
+    height: 22px;
+    width: 247px;
+    font-size: 17px;
+    outline: none;
+}
+
+#duplicateField {
+    width: 680px;
+    min-height: 200px;
+    background-color: #fff;
+    color: #000;
+    font-size: 17px;
+    padding: 10px;
+    outline: none;
+}
